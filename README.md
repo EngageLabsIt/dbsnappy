@@ -13,7 +13,7 @@ Here is an example of the `configurations.json` file:
     "targetFolder": "C:\\temp",
     "databases": [
         {
-            "name": "ElysBetsPrematch",
+            "name": "",
             "scriptTables": true,
             "scriptViews": true,
             "scriptStoredProcedures": true,
@@ -27,7 +27,7 @@ Here is an example of the `configurations.json` file:
             "addComputedColumnToSummary": true
         },
         {
-            "name": "ElysReports",
+            "name": "",
             "scriptTables": true,
             "scriptViews": true,
             "scriptStoredProcedures": true,
