@@ -1,0 +1,37 @@
+{
+    "Snappy": {
+        "databaseServer": ".",
+        "outputFormatForDatabases": "FILES",
+        "targetFolder": "C:\\temp",
+        "databases": [
+            {
+                "name": "",
+                "scriptTables": false,
+                "scriptViews": false,
+                "scriptStoredProcedures": false,
+                "scriptFunctions": false,
+                "scriptSchemas": false,
+                "scriptTypes": false,
+                "scriptSynonyms": false,
+                "scriptRoles": false,
+                "scriptSummary": true,
+                "addIdentityToSummary": true,
+                "addComputedColumnToSummary": true
+            },
+            {
+                "name": "",
+                "scriptTables": false,
+                "scriptViews": false,
+                "scriptStoredProcedures": false,
+                "scriptFunctions": false,
+                "scriptSchemas": false,
+                "scriptTypes": false,
+                "scriptSynonyms": false,
+                "scriptRoles": false,
+                "scriptSummary": true,
+                "addIdentityToSummary": true,
+                "addComputedColumnToSummary": true
+            }
+        ]
+    }
+}
